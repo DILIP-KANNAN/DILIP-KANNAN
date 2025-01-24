@@ -6,7 +6,7 @@ An active learner and applier currently pursuing an undergrad degree in Artifici
 - Have some compact knowlegde on machine learning foundations📈📈
 - Expert in Data structures and algorithms 😜😅
 -  How to reach me :
- <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/dilip-kannan-k) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](www.instagram.com/dilipkannan_/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />](mailto:231501040@rajalakshmi.edu.in)
+ <br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([www.linkedin.com/in/dilip-kannan-k](https://www.linkedin.com/in/dilip-kannan-k)w) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](www.instagram.com/dilipkannan_/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />](mailto:231501040@rajalakshmi.edu.in)
 <h2 align="center"> ### I code in </h2>
 <div align="center">
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
